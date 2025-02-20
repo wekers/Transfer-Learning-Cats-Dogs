@@ -2,6 +2,11 @@
   <img src="https://img.shields.io/static/v1?label=Tipo&message=Desafio&color=8257E5&labelColor=000000" alt="Desafio" />
 </p>
 
+## Language
+- [Versão em Português do conteúdo do README](README.md) <br/>
+- [English version of the README content](README.us.md)
+---
+  
 # Projeto de Transfer Learning em Python
 
 Este projeto aplica a técnica de **Transfer Learning** em uma rede neural profunda para classificação de imagens. O exemplo utiliza o dataset **Cats vs Dogs**, mas o código pode ser adaptado para qualquer outro dataset de duas classes.
