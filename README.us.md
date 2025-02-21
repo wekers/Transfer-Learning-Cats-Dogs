@@ -43,8 +43,8 @@ The model achieved an accuracy of **~98%** on the validation set after training.
 
 | Image | Prediction |
 |--------|----------|
-| ![Cat]() | Cat with 99% confidence |
-| ![Dog]() | Dog with 97% confidence |
+| ![Cat](https://raw.githubusercontent.com/wekers/Transfer-Learning-Cats-Dogs/refs/heads/main/img/curled-600nw-1679659792.webp) | Cat with 99% confidence |
+| ![Dog](https://raw.githubusercontent.com/wekers/Transfer-Learning-Cats-Dogs/refs/heads/main/img/Belgian_Groenendael_600.jpg) | Dog with 97% confidence |
 
 ## License
 
