@@ -41,8 +41,8 @@ O modelo alcançou uma acurácia de **~98%** no conjunto de validação após o 
 
 | Imagem | Previsão |
 |--------|----------|
-| ![Gato]() | Gato com 99% de confiança |
-| ![Cachorro]() | Cachorro com 97% de confiança |
+| ![Gato](https://raw.githubusercontent.com/wekers/Transfer-Learning-Cats-Dogs/refs/heads/main/img/curled-600nw-1679659792.webp) | Gato com 99% de confiança |
+| ![Cachorro](https://raw.githubusercontent.com/wekers/Transfer-Learning-Cats-Dogs/refs/heads/main/img/Belgian_Groenendael_600.jpg) | Cachorro com 97% de confiança |
 
 ## Licença
 
